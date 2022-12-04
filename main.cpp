@@ -147,6 +147,7 @@ int main(){
                 m.print();
             }
             else if(operation == 'T'){
+                cout << "The transpose of the matrix is:" << endl;
                 m.transpose();
                 m.print();
             }
