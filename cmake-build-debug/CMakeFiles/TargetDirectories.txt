@@ -1,0 +1,3 @@
+/Users/veca/LinalgCalculator/cmake-build-debug/CMakeFiles/main.dir
+/Users/veca/LinalgCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/veca/LinalgCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
